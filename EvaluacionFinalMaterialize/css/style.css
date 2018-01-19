@@ -36,6 +36,9 @@ cite{
 	filter: grayscale(100%);
 	margin-top: 1em;
 }
+.collection .collection-item span{
+	color: #1e88e5;
+}
 
 @media (min-width: 768px){
 	body{
